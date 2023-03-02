@@ -1,0 +1,11 @@
+---
+title: "Portfolio"
+---
+
+Some of my data science projects that I have completed include:
+
+- [Toronto Apartments](https://github.com/korolodf/Apartments_Toronto), where I visualized some upkeep scores from RentSafeTO's evaluations 2018-2022 spatially.
+
+```{r}
+
+```

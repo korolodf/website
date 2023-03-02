@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Finn’s Website",
+    "section": "",
+    "text": "Welcome to my website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some of my data science projects that I have completed include:\n\nToronto Apartments, where I visualized some upkeep scores from RentSafeTO’s evaluations 2018-2022 spatially."
+  }
+]

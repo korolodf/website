@@ -1,0 +1,14 @@
+{
+  "hash": "ff5bc80352499e7ee1d05d385751c5b6",
+  "result": {
+    "markdown": "---\ntitle: \"Portfolio\"\n---\n\n\nSome of my data science projects that I have completed include:\n\n- [Toronto Apartments](https://github.com/korolodf/Apartments_Toronto), where I visualized some upkeep scores from RentSafeTO's evaluations 2018-2022 spatially.\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

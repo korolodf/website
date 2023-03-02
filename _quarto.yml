@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Finn Korol"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - portfolio.qmd
+      - href: korol resume DS.pdf
+        text: Data Science Resume
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
