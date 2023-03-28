@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - portfolio.qmd
+      - contact.qmd
       - href: korol resume DS.pdf
         text: Data Science Resume
 

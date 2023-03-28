@@ -2,5 +2,6 @@
 title: "Finn's Website"
 ---
 
-Welcome to my website. 
+Welcome to my website. My name is Finn and I am an emerging data scientist. I am an undergraduate student at the University of Toronto studying Information. How did I get here? Well, I used to study physics at McMaster and when I was given the opportunity to study generative adversarial networks in a medical context, I fell in love with artificial intelligence, motivating my transfer of studies. 
 
+My interests include: generative artificial intelligence, sustainable energy 

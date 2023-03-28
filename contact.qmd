@@ -1,0 +1,14 @@
+---
+title: "contact.qmd"
+
+---
+
+Want to get in touch? You can contact me at:
+
+- finn.korol@mail.utoronto.ca
+- [linkedIn](https://www.linkedin.com/in/finlay-korol-o-dwyer-b48b88260/)
+
+```{r}
+
+```
+---
