@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Want to get in touch? You can contact me at:\n\nfinn.korol@mail.utoronto.ca\nlinkedIn"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Finn’s Website",
     "section": "",
-    "text": "Welcome to my website."
+    "text": "Welcome to my website. My name is Finn and I am an emerging data scientist. I am an undergraduate student at the University of Toronto studying Information. How did I get here? Well, I used to study physics at McMaster and when I was given the opportunity to study generative adversarial networks in a medical context, I fell in love with artificial intelligence, motivating my transfer of studies to learn to leverage the power of data.\nMy interests include: generative artificial intelligence, sustainable energy"
   },
   {
     "objectID": "portfolio.html",

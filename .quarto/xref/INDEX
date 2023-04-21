@@ -7,5 +7,8 @@
   },
   "portfolio.qmd": {
     "portfolio.html": "db8c67ad"
+  },
+  "contact.qmd": {
+    "contact.html": "c8b3dd73"
   }
 }
